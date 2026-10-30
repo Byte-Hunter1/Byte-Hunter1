@@ -67,6 +67,18 @@
 ---
 
 
+## 🎮 My contribution game
+
+<p align="center">
+  <i>Pac-Man is eating my commits. Let's keep him fed! 🟡</i>
+</p>
+<p align="center">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Byte-Hunter1/Byte-Hunter1/output/pacman-contribution-graph.svg" />
+</p>
+
+
+
+
 ## 🤝 Let's connect
 
 <p align="center">
@@ -78,13 +90,5 @@
 </p>
 
 
-## 🎮 My contribution game
-
-<p align="center">
-  <i>Pac-Man is eating my commits. Let's keep him fed! 🟡</i>
-</p>
-<p align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Byte-Hunter1/Byte-Hunter1/output/pacman-contribution-graph.svg" />
-</p>
 
 <p align="center"><i>"Every expert was once a beginner. Keep shipping." 🚀</i></p>

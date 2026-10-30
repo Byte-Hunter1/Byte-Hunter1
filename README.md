@@ -79,15 +79,3 @@
 
 <p align="center"><i>"Every expert was once a beginner. Keep shipping." 🚀</i></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Byte-Hunter1/krishi-gyan-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byte-Hunter1&repo=krishi-gyan-hub&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Byte-Hunter1/fasal1.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byte-Hunter1&repo=fasal1.0&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
